@@ -1,7 +1,7 @@
 ### Olá, stalker 👋🥰
 
 - Bacharel em Sistemas de Informação e Técn. em T.I 
-- Desenvolvedora Júnior na SAEB
+- Analista Júnior na SESAB
 - Amo criar e desenvolver coisas novas
 - Interessadíssima em **FrontEnd** 💖
 
