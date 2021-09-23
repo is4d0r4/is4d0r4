@@ -10,6 +10,8 @@
 - PHP
 - Laravel
 - HTML e CSS
+- VueJs
+- Angular
 
 ### Siga-me para conhecer ainda mais 👇🏾
 
