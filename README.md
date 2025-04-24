@@ -1,13 +1,13 @@
-### Olá, stalker 👋🥰
+### Olá 👋🥰
 
-- Bacharel em Sistemas de Informação e Técn. em T.I 
-- Analista de Sistemas na SESAB
+- **FrontEnd Developer** 💖
+- Bacharel em Sistemas de Informação e Técn. em T.I
 - Amo criar e desenvolver coisas novas
-- Interessadíssima em **FrontEnd** 💖
 
 ### Habilidades ✨
 - Java Script
 - PHP
 - Laravel
 - HTML e CSS
-- VueJs
+- VueJs 2/3
+- Tailwind CSS
